@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+    margin: 0;
+   }
+   main {
+    min-height: calc(100% - 184px);
+   }
+button{
+    cursor: pointer;
+}
+select, input{
+    outline: none;
+}
